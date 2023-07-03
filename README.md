@@ -1,4 +1,4 @@
-# DMNDTI：A Duplex Multi-view Network-based Method for Drug-target Interaction Prediction
+# DMHGNN: Double Multi-View Heterogeneous Graph Neural Network Framework for Drug-target Interaction Prediction
 ### Quick start
 We provide an example script to run experiments on our dataset: 
 
